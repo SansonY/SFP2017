@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to the team Self Driving in Special Weather page
 
-You can use the [editor on GitHub](https://github.com/SansonY/SFP2017/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Problem
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The self-driving car is one of the hottest topic in AI industry. There are many players including [Waymo](https://waymo.com), [Tesla](https://www.tesla.com/), [NVIDIA](http://www.nvidia.com), and [Toyota](http://www.toyota.co.jp/jpn/tech/automated_driving/). One of the difficulties in learning process is adopting to any road conditions, though it is costly to gather all possible data.  
 
-### Markdown
+## Our solution
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Generating special weathers (e.g., rainy, night, snow, ...) from a single situation. This 3D data augmentation will enhance the capability of self-driving car. 
 
-```markdown
-Syntax highlighted code block
+## Demo Video
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SansonY/SFP2017/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Members
+- Atsushi Yamamura
+- Yoshitaka Haribara
+- Hiromasa Sakaguchi
