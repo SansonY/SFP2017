@@ -9,7 +9,7 @@ The self-driving car is one of the hottest topic in AI industry. There are many 
 Generating special weathers (e.g., rainy, night, snow, ...) from a single situation. For example, to get a rainy image from the clear weather, we add CG particles (rain drops) and map the appropriate texture onto road surface. This 3D data augmentation will enhance the capability of self-driving car. 
 
 ## Samples
-![Our rendered image screenshot]({{ site.url }}/assets/screenshot.png)
+![Our rendered image screenshot]({{ site.url }}/SFP2017/assets/screenshot.png)
 
 # Demo Video
 
